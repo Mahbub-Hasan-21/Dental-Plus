@@ -1,0 +1,263 @@
+@media (min-width: 1024px) {
+.banner .owl-nav .owl-next span {right: -45px;}
+.banner .owl-nav .owl-prev span {left: -50px;}
+.banner .banner-info h1 {font-size: 35px;}
+.banner .banner-info h3 {font-size: 30px;}
+.welcome-section-img img {max-width: 70%;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 18px;padding: 10px 15px;}
+.price-box .price-intro h3 {font-size: 26px;}
+.price-box .price-intro p {font-size: 14px;}
+.price-box .price-pricing h2 {font-size: 42px;}
+.price-box .price-pricing p {font-size: 14px;}
+.price-box .price-features p {line-height: 44px;font-size: 14px;}
+.price-box .price-features a {margin-top: 10px;}
+.footer-part1 p {font-size: 16px;}
+.footer-social .footer-social-heading h4 {margin: 10px 0px;font-size: 24px;}
+.footer-social {display: inline;margin: 0px;}
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+.banner .owl-nav .owl-next span {right: -30px;}
+.banner .owl-nav .owl-prev span {left: -40px;}
+.banner .banner-info h1 {font-size: 35px;}
+.banner .banner-info h3 {font-size: 30px;}
+.welcome-section-img img {max-width: 70%;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 18px;padding: 10px 15px;}
+.price-box .price-intro h3 {font-size: 26px;}
+.price-box .price-intro p {font-size: 14px;}
+.price-box .price-pricing h2 {font-size: 42px;}
+.price-box .price-pricing p {font-size: 14px;}
+.price-box .price-features p {line-height: 44px;font-size: 14px;}
+.price-box .price-features a {margin-top: 10px;}
+.footer-part1 p {font-size: 16px;}
+.footer-social .footer-social-heading h4 {margin: 10px 0px;font-size: 24px;}
+.footer-social {display: inline;margin: 0px;}
+}
+@media (min-width: 770px) and (max-width: 991px){
+.header-section-01 .logo img {width: 130px;}
+.margin-right {margin-right: 10px;}
+.contact-img img { width: 63%;}
+.content-info h6 {font-size: 12px;line-height: 12px;}
+.content-info p {font-size: 10px;font-weight: 600;line-height: 22px;}
+.navbar-toggler{border: none;}
+.header-section .nav-item .nav-link {color: #000000;font-weight: 600;}
+.nav-item {clip-path: polygon(0% 0, 100% 0%, 100% 100%, 0% 100%);margin-bottom: 8px;}
+.navbar-toggler:focus {box-shadow: none;}
+.offcanvas.offcanvas-end{width: 50% !important;}
+.banner .banner-info h3 {font-size: 18px;}
+.banner .banner-info h1 {font-size: 23px;}
+.banner .banner-info p {font-size: 12px;}
+.banner .height {min-height: 65vh;}
+.banner-section {min-height: 65vh;}
+.banner .owl-nav {display: none;}
+.banner .banner-info ul li a {font-size: 15px;font-weight: 500;padding: 10px 15px;}
+.welcome-section {padding-top: 30px;}
+.welcome-section h2 {font-size: 20px;margin: 10px 0px;}
+.welcome-section p {font-size: 12px;padding-right: 0px;}
+.welcome-content .welcome-content-img img {width: 30px;}
+.welcome-content {display: flex;align-items: baseline;}
+.welcome-content .welcome-content-info {padding-left: 10px;}
+.welcome-section-img {bottom: 0;left: 15px;}
+.welcome-section-img img {max-width: 40%;}
+.heading h2 {font-size: 25px;margin: 5px 0px;}
+.bar img{width: 50px;}
+.team-section {padding: 30px 0px;}
+.heading p {font-size: 14px;margin: 5px 0px;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 14px;padding: 6px 8px;}
+.team-box h3 {font-size: 20px;}
+.team-box p {font-size: 12px;}
+.service-section {padding: 30px 0px;}
+.service-box {display: flex;}
+.service-box h5 {font-size: 12px;}
+.service-box p {font-size: 11px;}
+.service-box a {font-size: 12px;}
+.pricing-section {padding: 30px 0px;}
+.price-box .price-intro h3 {font-size: 20px;}
+.price-box .price-intro p {font-size: 11px;}
+.price-box .price-pricing h2 {font-size: 32px;}
+.price-box .price-pricing p {font-size: 12px;}
+.price-box .price-features p {line-height: 30px;font-size: 11px;}
+.price-box .price-features a {margin-top: 10px;}
+.owl-theme .owl-nav {display: none;}
+.footer-part1 img{width: 50%;}
+.footer-part1 p {margin: 18px 0px;font-size: 14px;}
+.footer-part1 .footer-part-contact .footer-part-contact-img img {width: 20px;}
+.footer-part1 .footer-part-contact .footer-part-contact-p p {font-size: 12px;}
+.footer-part2 h2 {margin-bottom: 18px;margin-top: 0px;font-size: 22px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p h6 {line-height: 14px;font-size: 12px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p p {font-size: 10px;line-height: 14px;}
+.footer-part3 h2 {font-size: 22px;}
+.footer-part3 p {margin: 5px 0px;font-size: 14px;}
+.footer-part3 form{margin-top: 15px;margin-left: 3px;}
+.footer-social .footer-social-heading h4 {margin-right: 20px;font-size: 24px;}
+.footer-section {padding: 20px 0px;}
+.bottom-footer p {font-size: 16px;}
+.footer-social {display: inline;margin: 0px;}
+.footer-social-heading{margin: 10px 0px;}
+}
+@media (max-width: 770px) {
+.header-section-01 .logo img {width: 130px;}
+.margin-right {margin-right: 10px;}
+.contact-img img { width: 63%;}
+.content-info h6 {font-size: 12px;line-height: 12px;}
+.content-info p {font-size: 10px;font-weight: 600;line-height: 22px;}
+.navbar-toggler{border: none;}
+.header-section .nav-item .nav-link {color: #000000;font-weight: 600;}
+.nav-item {clip-path: polygon(0% 0, 100% 0%, 100% 100%, 0% 100%);margin-bottom: 8px;}
+.navbar-toggler:focus {box-shadow: none;}
+.offcanvas.offcanvas-end{width: 50% !important;}
+.banner .banner-info h3 {font-size: 18px;}
+.banner .banner-info h1 {font-size: 23px;}
+.banner .banner-info p {font-size: 12px;}
+.banner .height {min-height: 65vh;}
+.banner-section {min-height: 65vh;}
+.banner .owl-nav {display: none;}
+.banner .banner-info ul li a {font-size: 15px;font-weight: 500;padding: 10px 15px;}
+.welcome-section {padding-top: 30px;}
+.welcome-section h2 {font-size: 20px;margin: 10px 0px;}
+.welcome-section p {font-size: 12px;padding-right: 0px;}
+.welcome-content .welcome-content-img img {width: 30px;}
+.welcome-content {display: flex;align-items: baseline;}
+.welcome-content .welcome-content-info {padding-left: 10px;}
+.welcome-section-img {bottom: 0;left: 15px;}
+.welcome-section-img img {max-width: 40%;}
+.heading h2 {font-size: 25px;margin: 5px 0px;}
+.bar img{width: 50px;}
+.team-section {padding: 30px 0px;}
+.heading p {font-size: 14px;margin: 5px 0px;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 14px;padding: 6px 8px;}
+.team-box h3 {font-size: 20px;}
+.team-box p {font-size: 12px;}
+.service-section {padding: 30px 0px;}
+.service-box {display: flex;}
+.service-box h5 {font-size: 12px;}
+.service-box p {font-size: 11px;}
+.service-box a {font-size: 12px;}
+.pricing-section {padding: 30px 0px;}
+.price-box .price-intro h3 {font-size: 20px;}
+.price-box .price-intro p {font-size: 11px;}
+.price-box .price-pricing h2 {font-size: 32px;}
+.price-box .price-pricing p {font-size: 12px;}
+.price-box .price-features p {line-height: 30px;font-size: 11px;}
+.price-box .price-features a {margin-top: 10px;}
+.owl-theme .owl-nav {display: none;}
+.footer-part1 img{width: 50%;}
+.footer-part1 p {margin: 18px 0px;font-size: 14px;}
+.footer-part1 .footer-part-contact .footer-part-contact-img img {width: 20px;}
+.footer-part1 .footer-part-contact .footer-part-contact-p p {font-size: 12px;}
+.footer-part2 h2 {margin-bottom: 18px;margin-top: 0px;font-size: 22px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p h6 {line-height: 14px;font-size: 12px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p p {font-size: 10px;line-height: 14px;}
+.footer-part3 h2 {font-size: 22px;}
+.footer-part3 p {margin: 5px 0px;font-size: 14px;}
+.footer-part3 form{margin-top: 15px;margin-left: 3px;}
+.footer-social .footer-social-heading h4 {margin-right: 20px;font-size: 24px;}
+.footer-section {padding: 20px 0px;}
+.bottom-footer p {font-size: 16px;}
+.footer-social {display: inline;margin: 0px;}
+.footer-social-heading{margin: 10px 0px;}
+}
+@media (min-width: 575px) and (max-width: 770px) {
+.offset-5{margin: 0;}
+.footer-part2 h2 {margin-top: 18px;}
+.content-info p {font-size: 7px;}
+.content-info h6 {font-size: 10px;}
+.contact-img img {width: 50%;}
+.banner .banner-info h3 {font-size: 22px;}
+.banner .banner-info h1 {font-size: 26px;}
+.welcome-section {padding-bottom: 340px;}
+.welcome-section-img {bottom: -340px;left: 15px;}
+.welcome-section-img img {max-width: 350px;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 18px;padding: 10px 16px;}
+}
+@media (min-width: 515px) and (max-width: 575px) {
+.offset-5{margin: 0;}
+.welcome-section {padding-bottom: 340px;}
+.welcome-section-img {bottom: -340px;left: 15px;}
+.welcome-section-img img {max-width: 350px;}
+.banner .banner-info h3 {font-size: 24px;}
+.banner .banner-info h1 {font-size: 30px;}
+.col-sm-9{margin-top: 20px;}
+}
+@media (min-height: 426px) and (max-width: 515px) {
+.offset-5{margin: 0;}
+.flex{display: none;}
+.header-section-01 .logo img {width: 40%;}
+.header-section {background: none;}
+.navbar-toggler{position: absolute;top: -50px;right: 0;border: none;}
+.navbar-toggler:focus {box-shadow: none;}
+.offcanvas.offcanvas-end{width: 80% !important;}
+.banner .banner-info ul li a {font-size: 13px;}
+.welcome-section {padding-bottom: 340px;}
+.welcome-section-img {bottom: -340px;left: 15px;}
+.heading h2 {font-size: 24px;}
+.heading p {font-size: 13px;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 16px;padding: 8px 10px;}
+.service-section {padding: 30px 0px;}
+.service-box {display: flex;}
+.service-box h5 {font-size: 20px;}
+.service-box p {font-size: 13px;}
+.service-box a {font-size: 14px;}
+.price-box .price-intro h3 {font-size: 24px;}
+.price-box .price-intro p {font-size: 13px;}
+.price-box .price-pricing h2 {font-size: 38px;}
+.price-box .price-pricing p {font-size: 14px;}
+.price-box .price-features p {line-height: 32px;font-size: 14px;}
+.price-box .price-features a {margin-top: 10px;}
+.owl-theme .owl-nav {display: none;}
+.client-section .client .item {min-height: 110px;}
+.client-section {padding: 10px 0px;}
+.footer-part2 h2 {margin-bottom: 18px;margin-top: 10px;font-size: 22px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p h6 {line-height: 20px;font-size: 13px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p p {font-size: 11px;line-height: 22px;}
+.footer-social {display: flex;align-items: center;margin: 35px 0px;color: #ffffff;}
+.footer-social-heading{margin: 0px;}
+.welcome-section-img img {max-width: 350px;}
+}
+@media (max-width: 426px) {
+.welcome-section-img img {max-width: 90%;}
+.offset-5{margin: 0;}
+.flex{display: none;}
+.header-section-01 .logo img {width: 40%;}
+.header-section {background: none;}
+.navbar-toggler{position: absolute;top: -50px;right: 0;border: none;}
+.navbar-toggler:focus {box-shadow: none;}
+.offcanvas.offcanvas-end{width: 80% !important;}
+.banner .banner-info ul li a {font-size: 13px;}
+.welcome-section {padding-bottom: 340px;}
+.welcome-section-img {bottom: -340px;left: 15px;}
+.heading h2 {font-size: 24px;}
+.heading p {font-size: 13px;}
+.team-box .team-image .team-hover ul li a .fa-brands {font-size: 16px;padding: 8px 10px;}
+.service-section {padding: 30px 0px;}
+.service-box {display: flex;}
+.service-box h5 {font-size: 20px;}
+.service-box p {font-size: 13px;}
+.service-box a {font-size: 14px;}
+.price-box .price-intro h3 {font-size: 24px;}
+.price-box .price-intro p {font-size: 13px;}
+.price-box .price-pricing h2 {font-size: 38px;}
+.price-box .price-pricing p {font-size: 14px;}
+.price-box .price-features p {line-height: 32px;font-size: 14px;}
+.price-box .price-features a {margin-top: 10px;}
+.owl-theme .owl-nav {display: none;}
+.client-section .client .item {min-height: 110px;}
+.client-section {padding: 10px 0px;}
+.footer-part2 h2 {margin-bottom: 18px;margin-top: 10px;font-size: 22px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p h6 {line-height: 20px;font-size: 13px;}
+.footer-part2 .footer-part-contact2 .footer-part-contact2-p p {font-size: 11px;line-height: 22px;}
+.footer-social {display: flex;align-items: center;margin: 35px 0px;color: #ffffff;}
+.footer-social-heading{margin: 0px;}
+}
+@media (max-width: 376px) {
+.welcome-section {padding-bottom: 290px;}
+.welcome-section-img {bottom: -290px;left: 15px;}
+.heading h2 {font-size: 22px;}
+.heading p {font-size: 12px;}
+.footer-social .footer-social-heading h4 {margin-right: 12px;font-size: 15px;}
+.bottom-footer p {font-size: 14px;}
+}
+@media (max-width: 320px) {
+.welcome-section {padding-bottom: 250px;}
+.welcome-section-img {bottom: -250px;left: 15px;}
+.bottom-footer p {font-size: 12px;}
+}
